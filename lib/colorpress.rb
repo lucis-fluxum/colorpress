@@ -1,5 +1,7 @@
 require 'colorpress/version'
 
 module Colorpress
-  # Your code goes here...
+
+  autoload :FileIO, 'colorpress/file_io'
+
 end

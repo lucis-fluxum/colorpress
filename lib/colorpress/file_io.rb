@@ -28,8 +28,8 @@ module Colorpress
     # Writes the given data to the given filename. Truncates the file if desired.
     #
     # @param filename [String] the name of the file to write
-    # @param data [String, Array] the data to write to the file
-    #   data may be a string or an array of ASCII values
+    # @param data [String, Array] the data to write to the file,
+    #   it may be a string or an array of ASCII values
     # @param truncate [Boolean] whether or not to empty the file before writing
     #
     # @return [void]

@@ -1,23 +1,5 @@
 # colorpress
 
-When you turn the character data of a file into pixel data in a PNG image, the result is a neat kind of compression.
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'colorpress'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install colorpress
-
 ## Usage
 
 Encode bytes of a file to PNG format:
@@ -42,4 +24,3 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/lucis-fluxum/colorpress. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
-
